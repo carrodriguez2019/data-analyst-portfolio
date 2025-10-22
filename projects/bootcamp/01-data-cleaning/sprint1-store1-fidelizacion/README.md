@@ -10,10 +10,8 @@ Análisis y preparación de datos de clientes para el nuevo Programa de Fideliza
 ## Objetivos
 
 -  **Limpieza de Datos**: Estandarizar nombres, edades y categorías.
-- **Cálculo de Métricas**: Gasto total por cliente, preferencias por categoría.
+- **Cálculo de Métricas**: Gasto total por cliente
 - **Validación**: Asegurar consistencia y calidad de datos.
-- **Preparación para KPIs**: Estructurar datos para análisis futuro.
-
 
 ## Datos
 
@@ -32,14 +30,7 @@ El dataset contiene información de clientes con las siguientes columnas:
 
 2. Transformación
 - Gasto Total: Suma del gasto por categorías
-- Categoría Principal: Identificación de categoría favorita
-- Segmentación: Agrupación por edad y gasto
 
-3. KPIs Calculados
-- Gasto promedio por cliente
-- Distribución por grupos de edad
-- Preferencias de categorías por segmento
-- Clientes de alto valor identificados
 
 ## Resultados y Hallazgos
 Los datos han sido procesados y están listos para:
@@ -49,10 +40,11 @@ Los datos han sido procesados y están listos para:
 - Diseño de campañas de marketing personalizadas
 
 ## Tecnologías Utilizadas
-- Python 3.x
+- Python 3.12.10
 - Jupyter Notebook
+- Visual Studio Code
 - Pandas (para manipulación de datos)
-- Numpy (para cálculos numéricos)
+
 
 ## Instalación  y Uso
 1. Clona el repositorio
@@ -70,10 +62,12 @@ jupyter notebook notebooks/analisis_store1.ipynb
 
 ## Estructura del Proyecto
 
+<img width="430" height="399" alt="image" src="https://github.com/user-attachments/assets/24654498-0e93-47ae-8bd6-24a8d4cc96bb" />
+
+
 ## Habilidades Demostradas
 - Limpieza de Datos: Pandas, transformaciones de texto
-- Análisis Exploratorio: Estadísticas descriptivas, agrupaciones
-- Visualización: Gráficos de distribución y tendencias
+- Análisis Exploratorio: agrupaciones
 - Storytelling: Presentación clara de hallazgos
 - Python: Programación orientada a análisis
 
