@@ -6,7 +6,7 @@
 
 | Sprint | Tema | Proyecto | Estado |
 |--------|------|----------|---------|
-| 1 | Limpieza de Datos | [Store 1 - Fidelización](projects/bootcamp/01-data-cleaning/sprint1-store1-fidelizacion/) | ✅ Completado |
+| 1 | Limpieza de Datos | [Store 1 - Fidelización](projects/bootcamp/01-data-cleaning/sprint1-store1-fidelizacion) | ✅ Completado |
 | 2 | Análisis de Negocio | *Próximamente* | 🚧 En progreso |
 | 3 | Machine Learning | *Próximamente* | 📅 Planeado |
 | 4 | Proyecto Final | *Próximamente* | 📅 Planeado |

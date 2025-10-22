@@ -12,7 +12,10 @@ Análisis y preparación de datos de clientes para el nuevo Programa de Fideliza
 -  **Limpieza de Datos**: Estandarizar nombres, edades y categorías.
 - **Cálculo de Métricas**: Gasto total por cliente.
 - **Validación**: Asegurar consistencia y calidad de datos.
-
+=======
+- **Cálculo de Métricas**: Gasto total por cliente
+- **Validación**: Asegurar consistencia y calidad de datos.
+>>>>>>> f713a8fcf23e1c43174545b9562f69fdff519aa
 
 ## Datos
 
@@ -42,7 +45,7 @@ Los datos han sido procesados y están listos para:
 ## Tecnologías Utilizadas
 - Python 3.12.10
 - Jupyter Notebook
-- Visual Code Studio
+- Visual Studio Code
 
 ## Instalación  y Uso
 1. Clona el repositorio
@@ -59,6 +62,9 @@ jupyter notebook notebooks/analisis_store1.ipynb
 ```
 
 ## Estructura del Proyecto
+
+<img width="430" height="399" alt="image" src="https://github.com/user-attachments/assets/24654498-0e93-47ae-8bd6-24a8d4cc96bb" />
+
 
 ## Habilidades Demostradas
 - Limpieza de Datos: Pandas, transformaciones de texto
