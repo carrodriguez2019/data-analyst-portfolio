@@ -1,13 +1,13 @@
 #  Portafolio de Análisis de Datos - Carolina Rodríguez Guerra
 ¡Hola! Soy Carolina, analista de datos en formación. Este portafolio muestra mi journey de aprendizaje y proyectos realizados durante mi bootcamp de análisis de datos.
 
-### Proyectos de Bootcamp (projects/bootcamp/
+### Proyectos de Bootcamp (projects/bootcamp/)
 *Proyectos realizados durante mi formación intensiva en análisis de datos*
 
 | Sprint | Tema | Proyecto | Estado |
 |--------|------|----------|---------|
 | 1 | Limpieza de Datos | [Store 1 - Fidelización](projects/bootcamp/01-data-cleaning/sprint1-store1-fidelizacion) | ✅ Completado |
-| 2 | Análisis de Negocio | *Próximamente* | 🚧 En progreso |
+| 2 | Limpieza de Datos | [Store 2 - Customer - Segmentation](projects/bootcamp/01-data-cleaning/sprint2-store1-customer-segmentation) | ✅ Completado |
 | 3 | Machine Learning | *Próximamente* | 📅 Planeado |
 | 4 | Proyecto Final | *Próximamente* | 📅 Planeado |
 
