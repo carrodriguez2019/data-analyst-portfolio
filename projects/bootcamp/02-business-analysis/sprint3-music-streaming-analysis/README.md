@@ -30,29 +30,56 @@ Abre tu terminal (o PowerShell) y usa git para descargar el proyecto en tu máqu
 git clone https://github.com/tu_usuario/music-streaming-analysis.git
 cd music-streaming-analysis/
 ```
-2. Instala las dependencias:
+
+2. Crear un Entorno Virtual (Recomendado)
+
+Es crucial usar un entorno virtual para aislar las dependencias del proyecto de tu instalación global de Python.
+
+A. Crear un entorno virtual
+```bash
+# Crea un entorno virtual llamado 'venv'
+python -m venv venv
+```
+B. Activar el Entorno
+```bash
+# Sistema Operativo	 Comando de Activación
+Windows (PowerShell)	.\venv\Scripts\Activate.ps1
+Windows (CMD)	.\venv\Scripts\activate.bat
+Linux/macOS	source venv/bin/activate
+```
+(Verás (venv) aparecer al inicio de tu línea de comandos, indicando que el entorno está activo.)
+
+3. Instalar Dependencias:
+
+Con el entorno virtual activado, instala todas las bibliotecas de Python necesarias para el proyecto utilizando el archivo requirements.txt:
+
 ```bash
 pip install -r requirements.txt
 ```
-3. Ejecuta el notebook principal:
+
+4. Ejecutar el Análisis:
+
+Una vez instaladas las dependencias, puedes iniciar Jupyter Lab o Jupyter Notebook para abrir y ejecutar el análisis:
+
 ```bash
-jupyter notebook notebooks/analisis_store1.ipynb
-```
-
-
-2. Crear un Entorno Virtual (Recomendado)Es crucial usar un entorno virtual para aislar las dependencias del proyecto de tu instalación global de Python.A. Crear el EntornoBash# Crea un entorno virtual llamado 'venv'
-python -m venv venv
-B. Activar el EntornoSistema OperativoComando de ActivaciónWindows (PowerShell).\venv\Scripts\Activate.ps1Windows (CMD).\venv\Scripts\activate.batLinux/macOSsource venv/bin/activate(Verás (venv) aparecer al inicio de tu línea de comandos, indicando que el entorno está activo.)3. Instalar DependenciasCon el entorno virtual activado, instala todas las bibliotecas de Python necesarias para el proyecto utilizando el archivo requirements.txt:Bashpip install -r requirements.txt
-4. Ejecutar el AnálisisUna vez instaladas las dependencias, puedes iniciar Jupyter Lab o Jupyter Notebook para abrir y ejecutar el análisis:Bash# Inicia Jupyter Lab
+# Inicia Jupyter Lab
 jupyter lab
 
 # O inicia Jupyter Notebook
 # jupyter notebook
-Navega a la carpeta notebooks/ y abre el archivo sprint_3_analisis_musica.ipynb para revisar y ejecutar el análisis.5. Desactivar el EntornoCuando termines tu sesión de trabajo, desactiva el entorno virtual:Bashdeactivate
+```
+Navega a la carpeta notebooks/ y abre el archivo sprint_3_analisis_musica.ipynb para revisar y ejecutar el análisis.
+
+5. Desactivar el Entorno
+Cuando termines tu sesión de trabajo, desactiva el entorno virtual:
+
+```bash
+deactivate
+```
 
 ## Fuente de Datos
 
-Los datos se almacenan en el archivo music_project_en.csv
+Los datos se almacenan en el archivo /datasets/music_project_en.csv
 
 Descripción de las columnas:
 
@@ -66,5 +93,16 @@ Descripción de las columnas:
 - `time`: hora del día en la que se reprodujo la pista (HH:MM:SS)
 - `Day`: día de la semana.
 
+## Autor
+Carolina Rodríguez Guerra 
+
+## Licencia
+Este proyecto es parte del programa de formación en análisis de datos.
+
+## Información Adicional
+- Bootcamp: Análisis de Datos (Tripleten)
+- Sprint: 3
+- Fecha: 01 de Agosto de 2025
+- Estado: Completado
 
 
