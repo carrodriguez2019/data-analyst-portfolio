@@ -7,8 +7,8 @@
 | Sprint | Tema | Proyecto | Estado |
 |--------|------|----------|---------|
 | 1 | Limpieza de Datos | [Store 1 - Fidelización](projects/bootcamp/01-data-cleaning/sprint1-store1-fidelizacion) | ✅ Completado |
-| 2 | Limpieza de Datos | [Store 2 - Customer - Segmentation](projects/bootcamp/01-data-cleaning/sprint2-store1-customer-segmentation) | ✅ Completado |
-| 3 | Machine Learning | *Próximamente* | 📅 Planeado |
+| 2 | Limpieza de Datos | [Store 1 - Customer - Segmentation](projects/bootcamp/01-data-cleaning/sprint2-store1-customer-segmentation) | ✅ Completado |
+| 3 | Análisis de Negocio | [Music-streaming-analysis](projects/bootcamp/02-business-analysis/sprint3-music-streaming-analysis) |  ✅ Completado  | 
 | 4 | Proyecto Final | *Próximamente* | 📅 Planeado |
 
 ## Habilidades Técnicas
