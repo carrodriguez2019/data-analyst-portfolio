@@ -32,12 +32,12 @@ Dos tablas simuladas con **1.092 operadores** y **50k+ registros**:
 ## 🧩 Planificación y Ejecución del Proyecto
 Metodología: Limpieza → EDA → Ingeniería de variables → KPIs → Validación estadística.  
 Flujo: **EDA → Hipótesis → Validación → Insights**  
-📓 Notebooks: [`01_task_breakdown.ipynb`](../notebooks/01_task_breakdown.ipynb) · [`02_implementation.ipynb`](/notebooks/02_implementation.ipynb)
+📓 Notebooks: [`01_task_breakdown.ipynb`](notebooks/01_task_breakdown.ipynb) · [`02_implementation.ipynb`](notebooks/02_implementation.ipynb)
 
 ---
 
 ## 🔍 Hallazgos clave
-1. **El problema principal no es la atención entrante** (tasa pérdida media <2%), sino la **baja productividad saliente** (18% de operadores hacen <11 llamadas out en todo el período).
+1. **El problema principal no es la atención entrante** (tasa de pérdida media <2%), sino la **baja productividad saliente** (18% de operadores hacen <11 llamadas out en todo el período).
 2. **19% de operadores** tienen alta tasa de pérdida (>10%) o alto tiempo de espera (>60s).  
 3. Solo **3 casos críticos** combinan mala atención y baja productividad.
 
