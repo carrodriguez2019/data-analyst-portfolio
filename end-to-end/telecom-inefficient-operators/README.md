@@ -1,5 +1,5 @@
 <p align="center">  
-  <img src="images/callme_banner.png" alt="Banner del proyecto" width="70%" style="display: block; margin: 0 auto;">
+  <img src="images/callme_banner.png" alt="Banner del proyecto" width="50%" style="display: block; margin: 0 auto;">
 </p>
 
 <h1 align="center">📞 Telecom Analytics: Identificación de Operadores Ineficientes</h1>
@@ -32,7 +32,7 @@ Dos tablas simuladas con **1.092 operadores** y **50k+ registros**:
 ## 🧩 Planificación y Ejecución del Proyecto
 Metodología: Limpieza → EDA → Ingeniería de variables → KPIs → Validación estadística.  
 Flujo: **EDA → Hipótesis → Validación → Insights**  
-📓 Notebooks: [`01_task_breakdown.ipynb`](/notebooks/01_task_breakdown.ipynb) · [`02_implementation.ipynb`](/notebooks/02_implementation.ipynb)
+📓 Notebooks: [`01_task_breakdown.ipynb`](../notebooks/01_task_breakdown.ipynb) · [`02_implementation.ipynb`](/notebooks/02_implementation.ipynb)
 
 ---
 
