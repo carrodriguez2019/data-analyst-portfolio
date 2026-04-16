@@ -34,7 +34,7 @@ Metodología: Limpieza → EDA → Ingeniería de variables → KPIs → Validac
 Flujo: **EDA → Hipótesis → Validación → Insights**  
 
 📓 Notebooks:  
-- [Notebook 1: Desglose de tareas](notebooks/01_task_breakdown.ipynb)  
+- [Notebook 1: Desglose de tareas](notebooks/01_task_breakdown..ipynb)  
 - [Notebook 2: Implementación y análisis](notebooks/02_implementation.ipynb)
 
 ---
