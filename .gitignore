@@ -1,0 +1,58 @@
+# Datos y archivos pesados (evita subir datasets grandes a GitHub)
+*.csv
+*.xlsx
+*.xls
+*.db
+*.sqlite
+*.sqlite3
+*.parquet
+*.feather
+data/raw/*.csv
+!**/data/raw/sample_*.csv   # Permite muestras pequeñas
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+.env
+virtualenv/
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Notebooks (opcional: ignora checkpoints y outputs grandes)
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.html
+
+# Archivos de configuración local y secretos
+config_local.py
+secrets.json
+.env.local
+*.key
+*.pem
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+
+# Reportes y dashboards exportados (si son muy grandes, pero puedes subir imágenes pequeñas)
+*.pbix
+*.twbx
+*.pdf   # si son pesados; comenta esta línea si quieres subir PDFs pequeños
+
+# Logs
+*.log
+logs/
+
+# Archivos de IDEs
+.vscode/
+.idea/
+*.sublime-*
