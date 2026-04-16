@@ -32,7 +32,10 @@ Dos tablas simuladas con **1.092 operadores** y **50k+ registros**:
 ## 🧩 Planificación y Ejecución del Proyecto
 Metodología: Limpieza → EDA → Ingeniería de variables → KPIs → Validación estadística.  
 Flujo: **EDA → Hipótesis → Validación → Insights**  
-📓 Notebooks: [`01_task_breakdown.ipynb`](notebooks/01_task_breakdown.ipynb) · [`02_implementation.ipynb`](notebooks/02_implementation.ipynb)
+
+📓 Notebooks:  
+- [Notebook 1: Desglose de tareas](notebooks/01_task_breakdown.ipynb)  
+- [Notebook 2: Implementación y análisis](notebooks/02_implementation.ipynb)
 
 ---
 
