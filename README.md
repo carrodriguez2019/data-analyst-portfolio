@@ -67,9 +67,9 @@ jupyter notebook
 ``` 
 
 ## Contacto
-- LinkedIn: www.linkedin.com/in/carolina-rodriguez-data
-- Email: carolina.rodriguez.guerra@gmail.com
-- GitHub: https://github.com/carrodriguez2019
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://linkedin.com/in/carolina-rodriguez-data)  
+[![GitHub](https://img.shields.io/badge/GitHub-CarolinaRG-black)](https://github.com/carrodriguez2019)
+
 
 ¡Este portafolio está en constante evolución! Vuelve pronto para ver nuevos proyectos.
 

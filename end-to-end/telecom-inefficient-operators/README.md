@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="images/callme_banner.png" alt="Telecom Analytics Project Banner" width="100%">
+<p align="center">  
+  <img src="images/callme_banner.png" alt="Banner del proyecto" width="70%" style="display: block; margin: 0 auto;">
 </p>
 
 <h1 align="center">📞 Telecom Analytics: Identificación de Operadores Ineficientes</h1>
@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen">
   <img src="https://img.shields.io/badge/Focus-Business%20Impact-critical">
 </p>
+
 ---
 
 **CallMeMaybe** (telefonía virtual) necesitaba detectar operadores con bajo desempeño para reducir llamadas perdidas y tiempos de espera.
@@ -31,7 +32,7 @@ Dos tablas simuladas con **1.092 operadores** y **50k+ registros**:
 ## 🧩 Planificación y Ejecución del Proyecto
 Metodología: Limpieza → EDA → Ingeniería de variables → KPIs → Validación estadística.  
 Flujo: **EDA → Hipótesis → Validación → Insights**  
-📓 Notebooks: [`01_task_breakdown.ipynb`](notebooks/01_task_breakdown.ipynb) · [`02_implementation.ipynb`](notebooks/02_implementation.ipynb)
+📓 Notebooks: [`01_task_breakdown.ipynb`](/notebooks/01_task_breakdown.ipynb) · [`02_implementation.ipynb`](/notebooks/02_implementation.ipynb)
 
 ---
 
@@ -83,7 +84,5 @@ Flujo: **EDA → Hipótesis → Validación → Insights**
 ---
 
 ## 👩‍💻 Autor
-**Carolina Rodríguez Guerra**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://linkedin.com/in/tu-perfil)  
-[![GitHub](https://img.shields.io/badge/GitHub-CarolinaRG-black)](https://github.com/tu-usuario)
+**Carolina Rodríguez Guerra** 
 
