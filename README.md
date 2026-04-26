@@ -17,7 +17,7 @@
 | Tipo | Proyecto | Descripción | Estado | Enlace |
 |------|----------|-------------|--------|--------|
 | 🏁 End‑to‑end | **Operadores ineficientes en telecomunicaciones** | Análisis de datos de operadores para identificar ineficiencias operativas | ✅ Completado | [ver](end-to-end/telecom-inefficient-operators/) |
-| 🧪 A/B Test | **ab-recommender-system** | Análisis de una prueba A/B para evaluar un nuevo sistema de recomendaciones en una tienda online, verificando la validez del experimento y determinando, mediante pruebas estadísticas, que la variante B no debe implementarse por bajo poder estadístico, desbalances en la muestra y ausencia de mejora significativa en las conversiones. | [ver](ab-testing/ab-recommender-system/)
+| 🧪 A/B Test | **ab-recommender-system** | Análisis de una prueba A/B para evaluar un nuevo sistema de recomendaciones en una tienda online, verificando la validez del experimento y determinando, mediante pruebas estadísticas, que la variante B no debe implementarse por bajo poder estadístico, desbalances en la muestra y ausencia de mejora significativa en las conversiones. |✅ Completado | [ver](ab-testing/ab-recommender-system/)
 
 > **Nota:** Cada proyecto contiene su propio `README.md` con detalles técnicos, visualizaciones y conclusiones de negocio.
 
