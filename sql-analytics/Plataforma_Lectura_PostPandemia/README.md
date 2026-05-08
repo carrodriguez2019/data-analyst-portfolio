@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner.svg" alt="Banner del proyecto" width="100%" style="display: block; margin: 0 auto;">
+  <img src="images/Banner.svg" alt="Banner del proyecto" width="100%" style="display: block; margin: 0 auto;">
 </p>
 
 <h1 align="center">📚 Análisis SQL: Plataforma de Lectura Post‑Pandemia</h1>
@@ -55,7 +55,7 @@ Cinco tablas relacionadas con datos del servicio de lectura:
 ### Diagrama de la base de datos
 
 <p align="center">
-  <img src="BD.png" alt="Esquema relacional de las tablas" width="70%">
+  <img src="images/BD.png" alt="Esquema relacional de las tablas" width="70%">
 </p>
 
 ---
