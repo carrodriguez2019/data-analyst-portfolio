@@ -7,8 +7,8 @@
 ## 📂 Estructura del portafolio
 
 - end-to-end/ → Proyectos completos: limpieza, EDA, visualización y conclusiones.
-- sql/ → Proyectos centrados en consultas SQL, optimización y bases de datos.
-- ab-test/ → Experimentos controlados, pruebas de hipótesis y diseño estadístico.
+- sql-analytics/ → Proyectos centrados en consultas SQL, optimización y bases de datos.
+- ab-testing/ → Experimentos controlados, pruebas de hipótesis y diseño estadístico.
 
 ---
 
@@ -18,6 +18,7 @@
 |------|----------|-------------|--------|--------|
 | 🏁 End‑to‑end | **Operadores ineficientes en telecomunicaciones** | Análisis de datos de operadores para identificar ineficiencias operativas | ✅ Completado | [ver](end-to-end/telecom-inefficient-operators/) |
 | 🧪 A/B Test | **ab-recommender-system** | Análisis de una prueba A/B para evaluar un nuevo sistema de recomendaciones en una tienda online, verificando la validez del experimento y determinando, mediante pruebas estadísticas, que la variante B no debe implementarse por bajo poder estadístico, desbalances en la muestra y ausencia de mejora significativa en las conversiones. |✅ Completado | [ver](ab-testing/ab-recommender-system/)
+| 🗄️ SQL | **Plataforma de Lectura Post‑Pandemia** | Análisis SQL sobre una base de datos PostgreSQL de un servicio de lectura (libros, autores, editoriales, calificaciones y reseñas). Mediante consultas con JOINs, subconsultas y agregaciones se cuantifica el catálogo reciente, se identifican editoriales y autores estratégicos (Penguin Books, J.K. Rowling) y se detectan los usuarios más activos para fundamentar la propuesta de valor de una nueva aplicación. | ✅ Completado | [ver](sql-analytics/Plataforma_Lectura_PostPandemia/) |
 
 > **Nota:** Cada proyecto contiene su propio `README.md` con detalles técnicos, visualizaciones y conclusiones de negocio.
 
@@ -60,7 +61,7 @@ cd data-analyst-portfolio
 # Instalar dependencias comunes
 pip install -r requirements.txt
 
-# Ejecutar Jupyter (para los proyectos end‑to‑end y A/B test)
+# Ejecutar Jupyter 
 jupyter notebook
 ``` 
 
